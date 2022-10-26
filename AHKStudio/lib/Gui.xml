@@ -1,0 +1,7 @@
+﻿<?xml version="1.0"?>
+<gui>
+	<win win="1" pos="x578 y116 w1246 h839" max="1">
+		<control h="976" w="1542" x="0" y="0" type="Scintilla" file="C:\Users\InventorBoy\Desktop\AHK-Studio-master\Untitled\Untitled1.ahk" hwnd="2" ra="3" last="1"></control>
+		<control h="440" w="378" x="1542" y="0" lp="0.80337079" type="Project Explorer" ba="4" hwnd="3"></control>
+		<control h="536" w="378" x="1542" y="440" lp="0.80337079" tp="0.45045045" type="Code Explorer" hwnd="4"></control></win>
+</gui>
